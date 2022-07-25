@@ -1,12 +1,11 @@
 # randomnum-xiaoliang
 
-
-Technical Assignment Requirements:
+Requirements:
 ------------------------------------
 1) Using Java 8, generate a million random numbers and output those numbers to a file.
 2) Create a program which sorts the output of your random number generator and sends the results to another file.
 
-* Kindly refer to my [source code](https://github.com/wxl1029/randomnum-xiaoliang/tree/master/src/main/java/org/random/xl)
+* Kindly refer to [source code](https://github.com/wxl1029/randomnum-xiaoliang/tree/master/src/main/java/org/random/xl)
 * Sample execution output:
 
 ******************* Begin Main ******************* <br>
